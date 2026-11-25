@@ -1,0 +1,1 @@
+{"description":"One joke about a meeting that should have been an email, written to /output/entry.txt for make.fun","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"meeting-that-should-have-been-an-email","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
